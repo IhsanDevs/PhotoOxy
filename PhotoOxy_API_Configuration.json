@@ -1,0 +1,194 @@
+[
+    {
+        "name": "captain_america",
+        "url": "https://photooxy.com/captain-america-text-generator-403.html",
+        "parameter": [
+            {
+                "name": "firstText",
+                "image": false,
+                "input_name": "text_1"
+            },
+            {
+                "name": "secondText",
+                "image": false,
+                "input_name": "text_2"
+            }
+        ]
+    },
+    {
+        "name": "flame_paper",
+        "url": "https://photooxy.com/other-design/flame-up-your-photo-on-a-paper-399.html",
+        "parameter": [
+            {
+                "name": "image",
+                "image": true,
+                "input_name": "image_0"
+            }
+        ]
+    },
+    {
+        "name": "missing_frame",
+        "url": "https://photooxy.com/other-design/loving-memory-picture-frame-397.html",
+        "parameter": [
+            {
+                "name": "image",
+                "image": true,
+                "input_name": "image_0"
+            }
+        ]
+    },
+    {
+        "name": "shadow_text",
+        "url": "https://photooxy.com/logo-and-text-effects/shadow-text-effect-in-the-sky-394.html",
+        "parameter": [
+            {
+                "name": "text",
+                "image": false,
+                "input_name": "text_1"
+            }
+        ]
+    },
+    {
+        "name": "memory_photo",
+        "url": "https://photooxy.com/art-effects/memory-photo-frame-393.html",
+        "parameter": [
+            {
+                "name": "image",
+                "image": true,
+                "input_name": "image_1"
+            }
+        ]
+    },
+    {
+        "name": "text_cup",
+        "url": "https://photooxy.com/logo-and-text-effects/write-text-on-the-cup-392.html",
+        "parameter": [
+            {
+                "name": "text",
+                "image": false,
+                "input_name": "text_1"
+            }
+        ]
+    },
+    {
+        "name": "romantic_message",
+        "url": "https://photooxy.com/logo-and-text-effects/romantic-messages-for-your-loved-one-391.html",
+        "parameter": [
+            {
+                "name": "text",
+                "image": false,
+                "input_name": "text_1"
+            }
+        ]
+    },
+    {
+        "name": "smoke_effect",
+        "url": "https://photooxy.com/other-design/create-an-easy-smoke-type-effect-390.html",
+        "parameter": [
+            {
+                "name": "text",
+                "image": false,
+                "input_name": "text_1"
+            }
+        ]
+    },
+    {
+        "name": "burn_paper",
+        "url": "https://photooxy.com/logo-and-text-effects/write-text-on-burn-paper-388.html",
+        "parameter": [
+            {
+                "name": "text",
+                "image": false,
+                "input_name": "text_1"
+            }
+        ]
+    },
+    {
+        "name": "iphone_frame",
+        "url": "https://photooxy.com/photo-frames/the-iphone-picture-frames-386.html",
+        "parameter": [
+            {
+                "name": "image",
+                "image": true,
+                "input_name": "image_0"
+            }
+        ]
+    },
+    {
+        "name": "pine_frame",
+        "url": "https://photooxy.com/photo-frames/beautiful-pine-leaf-frame-384.html",
+        "parameter": [
+            {
+                "name": "image",
+                "image": true,
+                "input_name": "image_1"
+            }
+        ]
+    },
+    {
+        "name": "beach_frame",
+        "url": "https://photooxy.com/photo-frames/photo-of-summer-beach-383.html",
+        "parameter": [
+            {
+                "name": "image",
+                "image": true,
+                "input_name": "image_0"
+            }
+        ]
+    },
+    {
+        "name": "flowers_frame",
+        "url": "https://photooxy.com/birthday-frames/frame-hoa-violet-nature-382.html",
+        "parameter": [
+            {
+                "name": "image",
+                "image": true,
+                "input_name": "image_0"
+            }
+        ]
+    },
+    {
+        "name": "summer_beach_frame",
+        "url": "https://photooxy.com/photo-frames/summer-photo-frame-2018-381.html",
+        "parameter": [
+            {
+                "name": "image",
+                "image": true,
+                "input_name": "image_0"
+            }
+        ]
+    },
+    {
+        "name": "nature_frame",
+        "url": "https://photooxy.com/photo-frames/fern-leaf-picture-frame-380.html",
+        "parameter": [
+            {
+                "name": "image",
+                "image": true,
+                "input_name": "image_0"
+            }
+        ]
+    },
+    {
+        "name": "nature_frame_2",
+        "url": "https://photooxy.com/photo-frames/photo-frame-in-nature-379.html",
+        "parameter": [
+            {
+                "name": "image",
+                "image": true,
+                "input_name": "image_1"
+            }
+        ]
+    },
+    {
+        "name": "naruto_banner",
+        "url": "https://photooxy.com/manga-and-anime/make-naruto-banner-online-free-378.html",
+        "parameter": [
+            {
+                "name": "text",
+                "image": false,
+                "input_name": "text_2"
+            }
+        ]
+    }
+]
