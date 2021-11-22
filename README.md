@@ -11,7 +11,7 @@ Konfigurasi PhotoOxy API untuk https://dbapi.org.
 
 ## Kontribusi
 
-Data JSON ini adalah konfigurasi untuk API PhotoOxy pada website https://dbapi.org. Jika Anda ingin berkontribusi untuk gist ini, silahkan baca prosedur dibawah ini:
+Data JSON ini adalah konfigurasi untuk API PhotoOxy pada website https://dbapi.org. Jika Anda ingin berkontribusi untuk API ini, silahkan baca prosedur dibawah ini:
     
 - key JSON `url` adalah URL PhotoOxy yang akan di scrapping. Harap tidak untuk memasukkan URL yang sama pada konfigurasi JSON ini.
 - key JSON `name` adalah slug untuk API. Jadi gunakan smallcase dan underscore sebagai penghubung kata jika lebih dari 1.
